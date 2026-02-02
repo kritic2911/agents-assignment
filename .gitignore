@@ -180,3 +180,4 @@ examples/dev/*
 
 *.env
 .env.local
+uv.lock
